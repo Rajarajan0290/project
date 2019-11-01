@@ -15,7 +15,7 @@ tags            = {
  connection {
         type     = "ssh"
         user     = "root"
-        password = "DevOps321"
+        password = "password"
         host     =  "${self.public_ip}"
      }
 
